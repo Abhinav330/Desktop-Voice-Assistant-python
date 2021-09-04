@@ -43,17 +43,17 @@
 # Instructions 
 
 ## ✔ This is adesktop voice assistant you can give following voice commands to it :
-###   Open youtube
-###   Search wikipedia
-###   Open google
-###   Open Gmial
-###   Play songs
-###   Play videos
-###   Tells time
-###   Open vs code
-###   Open whatsapp
-###   Sends emsil
-###   Can search on youtube directly.
+###        Open youtube
+###        Search wikipedia
+###        Open google
+###        Open Gmial
+###        Play songs
+###        Play videos
+###        Tells time
+###        Open vs code
+###        Open whatsapp
+###        Sends emsil
+###        Can search on youtube directly.
 
 
 
